@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Matt Harp on 2/2/17.
-//  Copyright © 2017 Matt Harp. All rights reserved..
+//  Copyright © 2017 Matt Harp. All rights reserved...
 //
 
 import UIKit
